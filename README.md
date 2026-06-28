@@ -4,7 +4,7 @@ VisionSense AI is a real-time AI-powered workforce monitoring system that analyz
 
 ---
 
-## 📌 Phase 1 Milestones
+## 📌 Phase 1 
 
 Before building the final dashboard interface, **Phase 1** focused on successfully integrating and testing the core tracking parameters. 
 
